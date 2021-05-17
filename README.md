@@ -2,12 +2,12 @@
   <br>
   <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
   <br>
-  Omni for <a href="https://website-link.com">X</a>
+  Omni for <a href="https://prismjs.com/">Prism.js</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark theme for <a href="https://website-link.com">X</a></strong>
+  <strong>Dark theme for <a href="https://prismjs.com/">Prism.js</a></strong>
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/template/graphs/contributors).
 
-| [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
+| [![Rafael Martins](https://github.com/martins-rafael.png?size=100)](https://github.com/martins-rafael) |
 | ------------------------------------------------------------------------------------------------ |
-| [João Pedro](https://github.com/jpedroschmitz)                                                   |
+| [Rafael Martins](https://github.com/martins-rafael)                                                   |
 
 ## License
 
