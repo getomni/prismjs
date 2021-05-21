@@ -64,62 +64,88 @@
    opacity: .7;
  }
 
- .token.property,
- .token.tag,
- .token.constant,
- .token.symbol,
- .token.deleted {
-   color: #ff79c6;
- }
+ .token.property {
+  color: #988bc7;
+}
 
- .token.boolean,
- .token.number {
-   color: #988bc7;
- }
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #ff79c6;
+}
 
- .token.selector,
- .token.attr-name,
- .token.string,
- .token.char,
- .token.builtin,
- .token.inserted {
-   color: #67e480;
- }
+.token.boolean,
+.token.number {
+  color: #78d1e1;
+}
 
- .token.operator,
- .token.entity,
- .token.url,
- .language-css .token.string,
- .style .token.string,
- .token.variable {
-   color: #e1e1e6;
- }
+.token.string,
+.token.attr-value {
+  color: #e7de79;
+}
 
- .token.atrule,
- .token.attr-value,
- .token.function,
- .token.class-name {
-   color: #e7de79;
- }
+.token.attr-name,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #67e480;
+}
 
- .token.keyword {
-   color: #78d1e1;
- }
+.token.selector {
+  color: #67e480;
+}
 
- .token.regex,
- .token.important {
-   color: #e89e64;
- }
+.token.operator {
+  color: #ff79c6;
+}
 
- .token.important,
- .token.bold {
-   font-weight: bold;
- }
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+  color: #e1e1e6;
+}
 
- .token.italic {
-   font-style: italic;
- }
+.token.function {
+  color: #ff79c6;
+}
 
- .token.entity {
-   cursor: help;
- }
+.token.parameter {
+  color: #e89e64;
+}
+
+.token.rule {
+  color: #ff79c6;
+}
+
+.token.atrule {
+  color: #78d1e1;
+}
+
+.token.class-name {
+  color: #988bc7;
+}
+
+.token.keyword {
+  color: #ff79c6;
+}
+
+.token.regex,
+.token.important {
+  color: #e89e64;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+.token.entity {
+  cursor: help;
+}
