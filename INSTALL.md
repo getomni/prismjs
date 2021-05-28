@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme by cloning the repo:
 
-    $ git clone https://github.com/martins-rafael/prismjs.git
+    $ git clone https://github.com/getomni/prismjs.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/martins-rafael/prismjs/archive/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/getomni/prismjs/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
